@@ -9,9 +9,11 @@ we can spot a turning point, or upward/downward momentume.
 2. Smart Beta strategy:
 
 There are a wide varieties of smart beta strategies. In general there are two types of indexes:
+
 	Alternatively weighted indexes — typically designed to address perceived concentration risks in 
 					capitalization-weighted indexes or reduce volatility within the index;
 	Factor indexes — designed to replicate factor risk premia in a transparent, rules-based and investable format.
+	
 I personally in favor of alternative weighted benchmarks that, for instance, weight individual stocks equally, 
 or according to dividends, company fundamentals... Given the prevail
 
