@@ -15,7 +15,7 @@ There are a wide varieties of smart beta strategies. In general there are two ty
 	Factor indexes — designed to replicate factor risk premia in a transparent, rules-based and investable format.
 	
 I personally in favor of alternative weighted benchmarks that, for instance, weight individual stocks equally, 
-or according to dividends, company fundamentals... Given the prevail
+or according to dividends, company fundamentals... Given Cap weighted indexes are the most popular benchmark weighting scheme, alternative weighting scheme is a way to against herd mentality.  
 
 
 3. Paris trading strategy
